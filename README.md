@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lucifer-king-of-hell
+- 👋 Hi, I’m Priyanshu Banerjee
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning ML. Computer vision , NPL.
 - 📫 How to reach me https://www.instagram.com/priyanshubanerjee22/
